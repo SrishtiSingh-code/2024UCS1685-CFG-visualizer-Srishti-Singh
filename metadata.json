@@ -1,0 +1,5 @@
+{
+  "name": "TAFL v50k final",
+  "description": "An interactive educational web application for visualizing Context-Free Grammars, derivations, and parse trees.",
+  "requestFramePermissions": []
+}
