@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# CFG Studio - Context-Free Grammar Visualizer
 
-# Run and deploy your AI Studio app
+A visual journey through derivations, parse trees, and the formal structure of language—from symbol to syntax. Developed for the Theory of Automata and Formal Languages (TAFL) course.
 
-This contains everything you need to run your app locally.
+## Live Demo
+View the application here: **[https://2024UCS1685.netlify.app](https://2024UCS1685.netlify.app)**
 
-View your app in AI Studio: https://ai.studio/apps/5a967c58-31e9-4cf8-be7c-a12e86cbcb43
+## Features
+- **Visual Parse Trees:** Interactive visualization of grammar structures.
+- **Derivation Tracking:** Compare leftmost and rightmost derivations side-by-side.
+- **Chomsky Hierarchy and CFG:** Deep dives into formal language classifications.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tech Stack
+- **Frontend:** React, Vite, TypeScript
+- **Styling:** Tailwind CSS
+- **Deployment:** Netlify
